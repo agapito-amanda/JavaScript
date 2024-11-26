@@ -1,2 +1,2 @@
-# JavaScript
- Meus exercícios de quando estudava JavaScript
+# JS
+ Projetos que criei quando estudava JavaScript
